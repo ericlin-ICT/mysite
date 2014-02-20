@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<html>
+  <form enctype="multipart/form-data" method="POST" action="/process/">
+    <table name="analysis_data">
+      {% for record in res_data %}
+        <tr>
+          {% for col in record %}
+            <td>{{col}}<td> 
+          {% endfor %}
+        </tr>
+      {% endfor %}
+    </table>
+    <table name="test"/>
+    <input type="hidden" name="data" value="{{res_data}}">
+    <input type="submit" name="submit">
+  </form>
+</html>

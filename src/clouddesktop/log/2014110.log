@@ -1,0 +1,42 @@
+[Fri, 10 Jan 2014 13:59:32] main.py[line:100] INFO =============Starts test2 process====================
+[Fri, 10 Jan 2014 14:01:35] main.py[line:101] INFO =============Starts test2 process====================
+[Fri, 10 Jan 2014 14:04:47] main.py[line:101] INFO =============Starts test2 process====================
+[Fri, 10 Jan 2014 14:04:47] UserLoader.py[line:63] DEBUG The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[Fri, 10 Jan 2014 14:04:47] UserLoader.py[line:64] ERROR 加载文件: ./experiment/user.csv 失败. The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[Fri, 10 Jan 2014 14:05:40] main.py[line:102] INFO =============Starts test2 process====================
+[Fri, 10 Jan 2014 14:05:40] UserLoader.py[line:63] DEBUG The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[Fri, 10 Jan 2014 14:05:40] UserLoader.py[line:64] ERROR 加载文件: ./experiment/user.csv 失败. The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[Fri, 10 Jan 2014 14:07:05] main.py[line:102] INFO =============Starts test2 process====================
+[Fri, 10 Jan 2014 14:07:05] UserLoader.py[line:63] DEBUG The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[Fri, 10 Jan 2014 14:07:05] UserLoader.py[line:64] ERROR 加载文件: ./experiment/user.csv 失败. The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[Fri, 10 Jan 2014 14:07:09] ADValidate.py[line:96] INFO 用户认证通过
+[Fri, 10 Jan 2014 14:08:16] main.py[line:102] INFO =============Starts test2 process====================
+[Fri, 10 Jan 2014 14:08:16] UserLoader.py[line:63] DEBUG The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[Fri, 10 Jan 2014 14:08:16] UserLoader.py[line:64] ERROR 加载文件: ./experiment/user.csv 失败. The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[Fri, 10 Jan 2014 14:08:20] ADValidate.py[line:96] INFO 用户认证通过
+[Fri, 10 Jan 2014 14:09:02] main.py[line:102] INFO =============Starts test2 process====================
+[Fri, 10 Jan 2014 14:09:02] UserLoader.py[line:63] DEBUG The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[Fri, 10 Jan 2014 14:09:02] UserLoader.py[line:64] ERROR 加载文件: ./experiment/user.csv 失败. The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[Fri, 10 Jan 2014 14:09:06] ADValidate.py[line:96] INFO 用户认证通过
+[Fri, 10 Jan 2014 14:10:35] main.py[line:102] INFO =============Starts test2 process====================
+[Fri, 10 Jan 2014 14:10:35] UserLoader.py[line:63] DEBUG The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[Fri, 10 Jan 2014 14:10:35] UserLoader.py[line:64] ERROR 加载文件: ./experiment/user.csv 失败. The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[Fri, 10 Jan 2014 14:10:39] ADValidate.py[line:96] INFO 用户认证通过
+[Fri, 10 Jan 2014 14:12:35] main.py[line:102] INFO =============Starts test2 process====================
+[Fri, 10 Jan 2014 14:12:42] UserLoader.py[line:63] DEBUG The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[Fri, 10 Jan 2014 14:12:42] UserLoader.py[line:64] ERROR 加载文件: ./experiment/user.csv 失败. The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[Fri, 10 Jan 2014 14:12:53] ADValidate.py[line:96] INFO 用户认证通过
+[Fri, 10 Jan 2014 14:15:29] main.py[line:102] INFO =============Starts test2 process====================
+[Fri, 10 Jan 2014 14:15:31] UserLoader.py[line:63] DEBUG The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[Fri, 10 Jan 2014 14:15:31] UserLoader.py[line:64] ERROR 加载文件: ./experiment/user.csv 失败. The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[Fri, 10 Jan 2014 14:16:14] main.py[line:102] INFO =============Starts test2 process====================
+[Fri, 10 Jan 2014 14:16:14] UserLoader.py[line:63] DEBUG The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[Fri, 10 Jan 2014 14:16:14] UserLoader.py[line:64] ERROR 加载文件: ./experiment/user.csv 失败. The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[Fri, 10 Jan 2014 14:16:18] ADValidate.py[line:96] INFO 用户认证通过
+[Fri, 10 Jan 2014 14:37:41] main.py[line:102] INFO =============Starts test2 process====================
+[Fri, 10 Jan 2014 14:37:41] UserLoader.py[line:63] DEBUG The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[Fri, 10 Jan 2014 14:37:41] UserLoader.py[line:64] ERROR 加载文件: ./experiment/user.csv 失败. The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[Fri, 10 Jan 2014 14:37:45] ADValidate.py[line:96] INFO 用户认证通过
+[Fri, 10 Jan 2014 14:39:42] main.py[line:102] INFO =============Starts test2 process====================
+[Fri, 10 Jan 2014 14:40:00] UserLoader.py[line:63] DEBUG The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[Fri, 10 Jan 2014 14:40:00] UserLoader.py[line:64] ERROR 加载文件: ./experiment/user.csv 失败. The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()

@@ -1,0 +1,16 @@
+[Wed, 18 Dec 2013 09:00:43] UserLoader.py[line:55] ERROR 文件./experiment/user.csv格式错误
+[Wed, 18 Dec 2013 09:29:26] UserLoader.py[line:58] DEBUG File ./experiment/user.csvi does not exist
+[Wed, 18 Dec 2013 09:29:26] UserLoader.py[line:59] ERROR 加载文件./experiment/user.csvi失败，File ./experiment/user.csvi does not exist
+[Wed, 18 Dec 2013 09:32:12] UserLoader.py[line:55] ERROR 文件: ./experiment/user.csv 格式错误
+[Wed, 18 Dec 2013 10:51:57] ADValidate.py[line:90] INFO 用户认证通过
+[Wed, 18 Dec 2013 10:52:03] ADAdd.py[line:60] DEBUG {'info': '00000562: UpdErr: DSID-031A119B, problem 6005 (ENTRY_EXISTS), data 0\n', 'desc': 'Already exists'}
+[Wed, 18 Dec 2013 10:52:03] ADAdd.py[line:61] ERROR 用户CN=谭浩,OU=cs,OU=User Accounts,DC=testlxh,DC=com加入组CN=GP_29_Project,OU=Citrix Admin,OU=User Accounts,DC=testlxh,DC=com失败， {'info': '00000562: UpdErr: DSID-031A119B, problem 6005 (ENTRY_EXISTS), data 0\n', 'desc': 'Already exists'}
+[Wed, 18 Dec 2013 10:57:15] ADValidate.py[line:90] INFO 用户认证通过
+[Wed, 18 Dec 2013 10:57:21] ADAdd.py[line:60] DEBUG {'info': '00000562: UpdErr: DSID-031A119B, problem 6005 (ENTRY_EXISTS), data 0\n', 'desc': 'Already exists'}
+[Wed, 18 Dec 2013 10:57:21] ADAdd.py[line:61] ERROR ldap修改失败， {'info': '00000562: UpdErr: DSID-031A119B, problem 6005 (ENTRY_EXISTS), data 0\n', 'desc': 'Already exists'}
+[Wed, 18 Dec 2013 14:28:02] [ADValidate.py][line:96][INFO] 用户认证通过
+[Wed, 18 Dec 2013 14:28:08] [ADAdd.py][line:70][DEBUG] {'info': '00000562: UpdErr: DSID-031A119B, problem 6005 (ENTRY_EXISTS), data 0\n', 'desc': 'Already exists'}
+[Wed, 18 Dec 2013 14:28:08] [ADAdd.py][line:71][ERROR] ldap修改失败， {'info': '00000562: UpdErr: DSID-031A119B, problem 6005 (ENTRY_EXISTS), data 0\n', 'desc': 'Already exists'}
+[Wed, 18 Dec 2013 14:30:02][ADValidate.py line:96][INFO] 用户认证通过
+[Wed, 18 Dec 2013 14:30:08][ADAdd.py line:70][DEBUG] {'info': '00000562: UpdErr: DSID-031A119B, problem 6005 (ENTRY_EXISTS), data 0\n', 'desc': 'Already exists'}
+[Wed, 18 Dec 2013 14:30:08][ADAdd.py line:71][ERROR] ldap修改失败， {'info': '00000562: UpdErr: DSID-031A119B, problem 6005 (ENTRY_EXISTS), data 0\n', 'desc': 'Already exists'}

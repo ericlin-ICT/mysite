@@ -1,0 +1,39 @@
+[Thu, 13 Feb 2014 16:21:56] main.py[line:102] INFO =============Starts test2 process====================
+[Thu, 13 Feb 2014 16:21:56] UserLoader.py[line:63] DEBUG The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[Thu, 13 Feb 2014 16:21:56] UserLoader.py[line:64] ERROR 加载文件: ./experiment/user.csv 失败. The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[Thu, 13 Feb 2014 16:22:00] ADValidate.py[line:96] INFO 用户认证通过
+[Thu, 13 Feb 2014 16:28:13] ADValidate.py[line:129] DEBUG {'info': 'Referral:\nldap://testlxh.com/DC=testlxh,DC=com', 'desc': 'Referral'}
+[Thu, 13 Feb 2014 16:28:13] ADValidate.py[line:130] DEBUG <class 'ldap.REFERRAL'>
+[Thu, 13 Feb 2014 16:28:13] ADValidate.py[line:131] ERROR 登录用户查询认证失败
+[Thu, 13 Feb 2014 16:28:13] ADValidate.py[line:93] ERROR lxhadmin用户名不正确，认证过程失败
+[Thu, 13 Feb 2014 16:31:02] ADValidate.py[line:129] DEBUG {'info': 'Referral:\nldap://testlxh.com/DC=testlxh,DC=com', 'desc': 'Referral'}
+[Thu, 13 Feb 2014 16:31:02] ADValidate.py[line:130] DEBUG <class 'ldap.REFERRAL'>
+[Thu, 13 Feb 2014 16:31:02] ADValidate.py[line:131] ERROR 登录用户查询认证失败
+[Thu, 13 Feb 2014 16:31:02] ADValidate.py[line:93] ERROR lxhadmin用户名不正确，认证过程失败
+[Thu, 13 Feb 2014 16:41:43] ADValidate.py[line:120] INFO sAMAccountName=lxhadmin
+[Thu, 13 Feb 2014 16:41:44] ADValidate.py[line:131] DEBUG {'info': 'Referral:\nldap://testlxh.com/DC=testlxh,DC=com', 'desc': 'Referral'}
+[Thu, 13 Feb 2014 16:41:44] ADValidate.py[line:132] DEBUG <class 'ldap.REFERRAL'>
+[Thu, 13 Feb 2014 16:41:44] ADValidate.py[line:133] ERROR 登录用户查询认证失败
+[Thu, 13 Feb 2014 16:41:44] ADValidate.py[line:94] ERROR lxhadmin用户名不正确，认证过程失败
+[Thu, 13 Feb 2014 16:46:58] ADValidate.py[line:122] INFO sAMAccountName=lxhadmin
+[Thu, 13 Feb 2014 16:46:59] ADValidate.py[line:133] DEBUG {'info': 'Referral:\nldap://testlxh.com/DC=testlxh,DC=com', 'desc': 'Referral'}
+[Thu, 13 Feb 2014 16:46:59] ADValidate.py[line:134] DEBUG <class 'ldap.REFERRAL'>
+[Thu, 13 Feb 2014 16:46:59] ADValidate.py[line:135] ERROR 登录用户查询认证失败
+[Thu, 13 Feb 2014 17:01:35] ADValidate.py[line:122] INFO sAMAccountName=lxhadmin
+[Thu, 13 Feb 2014 17:01:36] ADValidate.py[line:133] DEBUG {'info': 'Referral:\nldap://testlxh.com/DC=testlxh,DC=com', 'desc': 'Referral'}
+[Thu, 13 Feb 2014 17:01:36] ADValidate.py[line:134] DEBUG <class 'ldap.REFERRAL'>
+[Thu, 13 Feb 2014 17:01:36] ADValidate.py[line:135] ERROR 登录用户查询认证失败
+[Thu, 13 Feb 2014 17:02:11] ADValidate.py[line:122] INFO sAMAccountName=lxhadmin
+[Thu, 13 Feb 2014 17:02:12] ADValidate.py[line:133] DEBUG {'info': 'Referral:\nldap://testlxh.com/DC=testlxh,DC=com', 'desc': 'Referral'}
+[Thu, 13 Feb 2014 17:02:12] ADValidate.py[line:134] DEBUG <class 'ldap.REFERRAL'>
+[Thu, 13 Feb 2014 17:02:12] ADValidate.py[line:135] ERROR 登录用户查询认证失败
+[Thu, 13 Feb 2014 17:17:48] ADValidate.py[line:120] INFO sAMAccountName=lxhadmin
+[Thu, 13 Feb 2014 17:17:49] ADValidate.py[line:131] DEBUG {'info': 'Referral:\nldap://testlxh.com/OU=Accounts,OU=citrix%20virtual%20machines,DC=testlxh,DC=com', 'desc': 'Referral'}
+[Thu, 13 Feb 2014 17:17:49] ADValidate.py[line:132] DEBUG <class 'ldap.REFERRAL'>
+[Thu, 13 Feb 2014 17:17:49] ADValidate.py[line:133] ERROR 登录用户查询认证失败
+[Thu, 13 Feb 2014 17:17:49] ADValidate.py[line:94] ERROR lxhadmin用户名不正确，认证过程失败
+[Thu, 13 Feb 2014 17:30:24] ADValidate.py[line:120] INFO sAMAccountName=lxhadmin
+[Thu, 13 Feb 2014 17:31:15] ADValidate.py[line:120] INFO sAMAccountName=lxhadmin
+[Thu, 13 Feb 2014 17:31:41] ADValidate.py[line:120] INFO sAMAccountName=lxhadmin
+[Thu, 13 Feb 2014 17:35:13] ADValidate.py[line:120] INFO sAMAccountName=lxhadmin
+[Thu, 13 Feb 2014 17:35:13] ADValidate.py[line:121] INFO OU=Accounts,OU=citrix virtual machines,DC=testlxh,DC=com
